@@ -1,0 +1,40 @@
+---
+title: "Catalytic Interfaces"
+format:
+  html:
+    toc: true
+---
+## Overview
+The theme for the CAAD Futures 2025 - Hong Kong Conference is “CATALYTIC INTERFACES”.
+
+"Catalytic Interfaces" focuses on the transformative role computation plays in the interfaces surrounding architectural design and production. Whether methodological, spatial, interdisciplinary, technological, ecological, communicational, or cultural—interfaces act as catalysts, introducing alternative mechanisms that facilitate more efficient, diverse, or radical processes, demonstrating a significant shift when compared to traditional methods.
+
+![Diagram on the programming of “CATALYTIC INTERFACES”](catalytic.png){width=400px}
+
+## Enabling Deeper Exploration and Interaction
+The theme highlights how these interfaces grant access to extensive datasets and computational resources, enabling deeper levels of exploration, complexity, and interaction between designers and the built environment. This access fosters the rapid generation of architectural and urban designs by leveraging large data volumes.
+
+## Catalysing Critical Discussions
+CAAD Futures 2025 aims to catalyse critical discussions on the implementation and impact of these catalytic interfaces within the architectural profession. The conference will address current and future challenges and opportunities for computation in architecture design and production, emphasising the potential for increased multidisciplinary collaboration and integration across various stakeholders.
+
+## Guiding Programming and Interaction
+The concept of interface permeates every aspect of this conference's planning. It guides our programming, featuring extended breaks between sessions to encourage attendee interaction, thematic panel discussions on interfacing technologies, and comprehensive socialization opportunities, including cocktails and after-parties.
+
+## Public Interface and Participation
+Additionally, we provide a public interface where the wider academic community, public intellectuals, and the general public can pose questions to a select panel of speakers. Most notably, we develop an integrated programme of "Catalytic Interfaces" to catalyse the emergence of new opportunities by the interfacing of ideas from topic-driven Catalysers, attendees, and speakers.
+
+## The Event
+The event will convene leading international researchers and designers who are pioneering new approaches in the conceptualization, generation, evaluation, and realization of the built environment. Hosted in Hong Kong, CAAD Futures 2025 will engage with the city’s advanced architectural design and research, as well as the dynamic activities within the Greater Bay Area’s academic and professional communities.
+
+### Catalytic Prelude
+As the conference’s eponymous activity, “CATALYTIC INTERFACE” is an indispensable component of CAAD Futures 2025. It will last throughout the conference and provide a forum for leaders of various domains within the architectural, engineering, and construction sector to catalyse new modalities of architectural creation.
+
+### Catalysation in Conference
+Inspired by the concept of Hackathon, groups of Catalysers are encouraged to prototype and develop an artefact during the three-day conference. An artefact might range from design concepts, to text, to physical artefacts, to software products, etc. This artefact will embody the position of the group regarding the interfacing of topics nourished through the period of discussions leading up to the conference.
+
+### Catalytic Climax
+On the final day of the conference, the groups of Catalysers will present their artefacts as well as their refined positions. This event will be open to the public at large, facilitating exchange and dissemination. 
+
+The outcome of the conference is two-fold: a manifesto featuring the condensed positions of all Catalysers and the opportunity for interested Catalysers to publish the outcome of their three-day collaboration through a peer-reviewed book by the University of Hong Kong Press. A dedicated open access platform will be set up to host all assets developed during the period to complement both works.
+
+Join CAAD Futures 2025 in exploring and expanding the transformative potential of "Catalytic Interfaces".

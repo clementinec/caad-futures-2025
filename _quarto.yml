@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "CAAD Futures 2025"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Speakers"
+        href: speakers.qmd
+      - text: "Ambition"
+        href: ambition.qmd
+      - text: "Conference Theme"
+        href: conference_theme.qmd
+
+
+format:
+  html:
+    theme: quartz
+    css: styles.css
+    toc: true
+
+
+
