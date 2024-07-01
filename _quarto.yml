@@ -3,8 +3,9 @@ project:
 
 website:
   title: "CAAD Futures 2025"
-
+  favicon: "cf25logo.png"
   navbar:
+    logo: "cf25logo.png"
     right:
       - text: "Home"
         href: start.qmd

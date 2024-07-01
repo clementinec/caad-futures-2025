@@ -6,8 +6,8 @@ format:
     toc-location: left
 ---
 
-**Date:** July 2-4, 2025  
-**Location:** The University of Hong Kong
+##### **Date:** July 2-4, 2025  
+##### **Location:** The University of Hong Kong
 
 ## Introduction
 CAAD Futures (website: [caadfutures.org](https://www.caadfutures.org/)) was set up under Dutch law in 1985 with three founding members: Tom Maver, Rik Schijf, and Harry Wagter. The purpose of the organization is to promote, through international conferences and publications, the advancement of Computer Aided Architectural Design in the service of those concerned with the quality of the built environment.
@@ -29,9 +29,9 @@ We invite researchers, practitioners, and professionals to submit their papers f
 
 **Important Dates:**
 
-- **Submission Deadline:** January 15, 2025
-- **Notification of Acceptance:** March 15, 2025
-- **Final Paper Submission:** May 1, 2025
+- **Submission Deadline:** October 15, 2024
+- **Notification of Acceptance:** December 15, 2024
+- **Final Paper Submission:** April 1, 2025
 
 ## Conference Theme
 ### Catalytic Interfaces
