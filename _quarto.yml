@@ -3,10 +3,11 @@ project:
 
 website:
   title: "CAAD Futures 2025"
+
   navbar:
     right:
       - text: "Home"
-        href: index.qmd
+        href: start.qmd
       - text: "Team"
         href: team.qmd
       - text: "Speakers"
@@ -19,7 +20,8 @@ website:
 
 format:
   html:
-    theme: quartz
+    page-layout: full
+    theme: lux
     css: styles.css
     toc: true
 
