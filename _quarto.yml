@@ -8,7 +8,7 @@ website:
     logo: "cf25logo.png"
     right:
       - text: "Home"
-        href: start.qmd
+        href: id3.qmd
       - text: "Team"
         href: team.qmd
       - text: "Speakers"
